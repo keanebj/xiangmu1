@@ -1,0 +1,103 @@
+*{
+	margin:0;
+	padding:0;
+}
+body{
+	padding-top:30px;
+}
+a:hover{
+	color:red;
+}
+
+.a1 span{
+	color:blue;
+}
+.a2{
+	background:#00caca;
+	margin-top:30px;
+	padding:5px 0;
+}
+.a2 a{
+	font-size:13px;
+	color:white;
+}
+.a2 a:hover{
+	background:#888;
+	text-decoration:none;
+}
+.a3{
+	padding:10px 0;
+}
+.a4{
+	padding :0;
+}
+.a4 p a{ 
+	color:#111;
+}
+.a4-1 h4 {
+	margin:3rem 0;
+}
+.a4 img{
+	margin:2rem 0;
+}
+  h3{
+	padding-bottom:10px ;
+}
+.a4 .pull-right{
+	color:#DDD;
+}
+.a4-2 div{
+	padding:3px 0px;
+}
+.a4-3{
+	margin-top:53px;
+	border:solid 1px lightblue;
+}
+.a4-3 .span1{
+	color:red;
+}
+.a5 img{
+	margin-bottom:17px;
+}
+.a5 p a{
+	color:black;
+}
+.a5 .a5-1{
+	font-size:16px;
+	padding-top:20px;
+	display:none;
+}
+
+.a6{
+	margin:20px auto;
+	padding:0;
+}
+.a7 a{
+	color:black;
+	padding:0px 4px;
+}
+.a7{
+	margin:10px auto;
+	padding:0;
+}
+p a:hover a{
+	color:red;
+}
+.dingwei{
+	position:absolute;
+	right:0;
+}
+.dingwei h1{
+	font-size:15px;
+	border:solid 1px green;
+	width:40px;
+	background:lightblue;
+	color:white;
+	margin-bottom:0;
+}
+.dingwei span{
+	 font-size:15px;
+	 color:blue;
+	 border:solid 1px green;
+	 padding:1rem;
+}
