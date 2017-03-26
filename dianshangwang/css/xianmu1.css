@@ -1,0 +1,220 @@
+@CHARSET "UTF-8";
+*{
+	padding:0;
+	margin:0;
+}
+h1,h2,h3,h4,h5,h6,p{
+	padding:0;
+	margin:0;
+}
+li{
+	list-style:none;
+}
+.a1{
+	background:#EEE;
+}
+.a1 span a{
+	color:red;
+}
+#aaa{
+	background:black;
+	opacity:0.5;
+}
+#aaa h3,#aaa p{
+	color:white;
+	opacity:1;
+	padding:0.2rem 0;
+}
+#aaa h3{
+	padding:0.4rem 0;
+}
+a{
+	color:black;
+	text-decoration:none;
+}
+.a2 {
+	margin:3rem 0;
+}
+.a2-1{
+	margin-top:-3rem;
+}
+.a2 p a{
+	font-size:15px;
+}
+.a3{
+	background:blue;
+}
+.a3 li a{
+	color:white;
+	padding:1rem 5rem;
+}
+.a4{
+	margin:5rem 0;
+}
+.a4 h3{
+	padding-bottom:1rem;
+	border-bottom:solid 1px blue;
+}
+.a5 {
+	margin-bottom:3rem;
+}
+#p2,#p3,#p4{
+	display:none;
+}
+.a5 button{
+	border:none;
+	padding:1rem 2rem;
+}
+.a5-1{
+	margin-top:1rem;
+}
+.a6{
+	background:blue;
+}
+.a6 a{
+	color:white;
+}
+.a6 li a:hover{
+	background:orange;
+}
+.a7{
+	margin:3rem 0;
+}
+.a7-1{
+	margin:2rem 0;
+}
+.a8{
+	margin:2rem 0;
+}
+.a9{
+	margin:2rem 0;
+}
+.a10{
+	background:blue;
+	color:white;
+}
+.a10 li{
+	padding-top:1rem;
+}
+.a10 h3{
+	padding:2rem 0;
+}
+.a10 a{	
+	color:white;
+}
+.a20{
+	background:white;
+	opacity:0.5;
+	color:black;
+}
+.b2{
+	padding:1rem 0;
+	background:#EEE;
+}
+.b2 p{
+	padding-top:0.5rem;
+}
+.b2 input{
+	border-right:none;
+}
+.b2 button{
+	border-left:none;
+}
+.b2 button span{
+	color:#CCC;
+}
+.b3 a{
+	font-size:11px;
+}
+.b3{
+	border:solid 1px #CCC;
+}
+.b3 li{
+	margin:1rem 0;
+}
+.b3-1{
+	border-bottom:solid 1px #CCC;
+}
+.b3-li{
+	padding-top:3rem;
+}
+.b3 button{
+	background:#aaa;
+	color:white;
+}
+.b3-2{
+	padding-top:1.5rem;
+}
+.b4 span{
+	color:#DDD;
+	font-size:14px;
+}
+.c1 img{
+	margin:3rem 0;
+}
+.c1 span{
+	color:orange;
+}
+.c1-2{
+	padding-top:3rem;
+}
+.c1 p,.c1 h1,.c1 h5{
+	margin:2rem 0;
+}
+.h5{
+   padding:1.3rem 0;
+}
+.c1 button{
+	margin:1rem 0;
+	border:none;
+}
+.c2{
+	margin:3rem 0;
+}
+#c1 {
+	background:#EEF;
+	
+}
+#c2 h5{
+	border:solid 1px #CCC;
+	padding:1rem 1rem ;
+}
+.c1 input{
+	margin:2rem 0;
+}
+#c2-1{
+	background:#CCC;
+}
+.c3 h5{
+	padding:1rem 0;
+}
+.c3 h3{
+	padding:1rem 2.5rem;
+}
+.c3-1{
+	border:solid 1px #CCC;
+}
+.d1{
+	margin:3rem 0;
+}
+.d1 h4{
+	background:blue;
+	padding:1.2rem 2rem;
+	color:white;
+}
+.f2{
+	margin:3rem 0;
+}
+.g1{
+	padding:1rem 0;
+	border:solid 1px #CCC;
+}
+.g1 div{
+	padding:1rem auto;
+}
+.h1 h4{
+	margin:2rem auto;
+}
+.h1 button{
+	margin:2rem auto;
+}

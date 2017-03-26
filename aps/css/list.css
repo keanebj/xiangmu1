@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*banner*/
+.listbanner{ height:455px; position:relative; width:1440px;}
+.listbanner ul{ position:relative; width:1440px; height:455px; z-index:1;}
+.listbanner ul li{ position:absolute;left:0;top:0}
+.listbanner ol{ width:160px; height:12px; position:absolute; left:50%; margin-left:-80px; bottom:20px; z-index:2;}
+.listbanner ol li{ width:12px; height:12px;background:#fff;  border-radius:50%; float:left;  margin:0 14px; cursor:pointer; _display:inline;}
+.listbanner ol li.current{ background:#013299;}
+
+/*list*/
+.subads p{ height:40px; float:left; line-height:40px; color:#757575; font-size:16px; margin-top:38px;}
+.subads p a{ color:#0C0C0C}
+.fenlei{ height:66px;border-bottom:2px solid #C3C3C3; position:relative;}
+.fenlei img{ width:199px; height:23px; position:absolute; left:0; top:34px;}
+.business ul{ overflow:hidden; border-bottom:1px solid #E0E0E0;}
+.business li{ width:363px; height:440px; float:left; margin-top:40px; }
+.business li img{text-align:center; width:300px; height:220px;}
+.business li h1{ font-size:24px; color:#252525; font-weight:normal; padding-left:17px;}
+.business li p{ width:309px; color:#727272; font:normal 18px/24px "微软雅黑"; margin-top:15px; padding-left:17px; height:100px;}
+.business li .look{width:100px; height:30px; background:#1B8BE9;margin-left:17px;line-height:30px; text-align:center; font-size:14px; margin-top:20px;}
+.business li .look a:hover{ opacity:0.6}
+.business ul.business05{ border:0 none;}
+
+
+
+

@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* CSS Document */
+.wrap02{width:1180px; margin:0 auto;}
+
+
+.rotus{ height:46px; }
+.rotus p{ font:normal 14px/46px "微软雅黑"; color:#757575;}
+.rotus p a{ color:#0C0C0C;}
+
+.banner{ height:926px; background:url(../images/aboutEpson_bg.jpg) no-repeat; overflow:hidden;}
+.banner .baise{ height:800px; background:#fff; margin-top:162px;}
+.banner .baise .baise_l{ width:294px; float:left; margin:30px 0 0 30px;}
+.banner .baise .baise_l .title{ width:294px; height:40px; line-height:40px; background:#505050; font:normal 18px/40px "微软雅黑"; color:#fff; text-indent:17px;}
+.banner .baise .baise_l .margin5{ margin:5px 0;}
+.banner .baise .baise_l .li01{width:294px; height:40px; line-height:40px; background:#DADADA url(../images/newsIcon_left.png) no-repeat 258px 8px; font:normal 18px/40px "微软雅黑"; color:#404040; text-indent:17px; cursor:pointer;}
+.banner .baise .baise_l .current{ background:#DADADA url(../images/news_active.png) no-repeat 258px 8px;}
+.banner .baise .baise_l .li02{background:#DADADA url(../images/nameIcon_blank.png) no-repeat 258px 8px;}
+.banner .baise .baise_l .secondmenu{ display:none;}
+.banner .baise .baise_l .secondmenu a{ width:292px; height:29px; font:normal 14px/29px "微软雅黑"; color:#404040; text-indent:17px; display:block; border:1px solid #DADADA; border-top:0 none;}
+.banner .baise .baise_l .secondmenu a:hover{ color:blue;}
+.banner .baise .baise_r{ width:781px; height:600px;float:right; margin:30px 30px 0 0;}
+.banner .baise .baise_r .title02{ height:38px; font:bold 24px/38px "微软雅黑"; color:#505050; border-bottom:1px solid #BDBDBD;}
+.banner .baise .baise_r .jianjie{ height:280px; width:781px;margin-top:30px; border-bottom:1px dashed #BDBDBD;}
+.banner .baise .baise_r .jianjie img{ display:inline-block;}
+.banner .baise .baise_r .jianjie .jianjie-top{ width:516px; height:307px; float:right;}
+.banner .baise .baise_r .jianjie .jianjie-top h1{color:#373737; font:normal 18px/30px "微软雅黑";}
+.banner .baise .baise_r .jianjie .jianjie-top p{ color:#333333; font:normal 14px/28px "微软雅黑"; margin-top:23px;}
+.banner .baise .baise_r .jianjie .jianjie-top p a{font:normal 14px/28px "微软雅黑"; color:blue;}
+.banner .baise .baise_r .bbottom{ border:0 none;}
+
+
+
+
+
+
+

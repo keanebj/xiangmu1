@@ -1,0 +1,134 @@
+@CHARSET "UTF-8";
+
+       *{
+         padding:0px;
+         margin:0px;
+         list-style-type:none;
+         color:white;
+        }
+        a{
+        color:white;
+        }
+        body{
+           background:#CCC;
+        }
+      #a{
+       margin-bottom:0;
+      }
+      #b {
+       margin-top:0px;
+       background:black;
+       color:white;
+       padding-top:1rem;
+       padding-bottom:0;
+      }
+      #b h1{
+       padding-bottom:0;
+       margin-top:0;
+      }
+      #b li{
+       padding:0.5rem;
+      }
+      #b li a{
+       color:white;
+       font-size:2rem; 
+      }
+      #c{
+      margin:5rem;
+      color:white;
+      }
+      #c  a:hover img{
+      filter:alpha(Opacity=20);-moz-opacity:0.2;opacity: 0.2; 
+      } 
+       #d{
+       background:black;
+       margin:30px 0;
+       }
+     #d h4{
+      display:none;
+      padding-top:15px;
+      font-size:20px;
+      color:white;
+     }
+    #e {
+    margin:30px 0;
+   height:35rem;
+    }
+     #e a:hover img,#f a:hover img{
+       width:120%;
+     }
+     #e h1{
+      padding-bottom:40px;
+      color:white;
+     }
+     #f {
+     height:60rem;
+     }
+     #f img{
+     padding:10px 0;
+      }
+     #f1{
+      height:30rem;
+     }
+   
+    #g{
+     color:white;
+     border:solid 1px white;
+    }
+    #g a{
+    color:white;
+    }
+    #g h3{
+     padding-bottom:3rem;
+     
+    }
+    #g img{
+    padding-left:2rem;
+    }
+    #g h4{
+    padding:4rem 0;
+    }
+    #h li{
+    display:inline;
+    padding-left:2rem;
+    line-height:1.5rem;
+    }
+    #h{
+    padding-top:1rem;
+    background:black;
+    font-size:1.4rem;
+    }
+    #i{
+       margin:3rem 0;
+    }
+    #i a{
+     color:yellow;
+    }
+    #k h3{
+       background:#777;
+       border: solid 1px #CCC;
+       padding:1rem 2rem;
+       margin-bottom:0;
+    }
+    #k ul{
+      margin:0;
+    }
+    #k li{
+      border:solid 1px #CCC;
+      padding:1rem 2rem;
+    }
+    #k a{
+      color:black;
+    }
+    .panel-body{
+     padding:0;
+    }
+    #k span a{
+      color:black;
+      border:solid 1px black;
+      padding:2px;
+    }
+    #k h5,#k p,#k img{
+       padding-top:1.5rem;
+       line-height:2.5rem;
+    }

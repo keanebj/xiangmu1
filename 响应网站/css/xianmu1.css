@@ -1,0 +1,113 @@
+@CHARSET "UTF-8";
+*{
+font-family:微软雅黑;
+}
+.a{
+	width:100%;
+	height:2000px;
+}
+.a1{
+	float:left;
+	height:4%;
+	width:100%;
+	border-bottom:solid 1px #CCC;
+}
+.a1-1{
+	width:60%;
+	height:100%;
+	float:left;
+
+}
+.a1-1 input{
+	padding:10px 20px;
+	border:solid 1px #DDD;
+	margin:0 4%;
+	color:#CCC;
+}
+.a1-1 img{
+    padding:10px 4%;  
+}
+.a1-2{
+	float:left;
+	width:40%;
+	text-align:right;
+}
+.a1-2 button{
+	margin-right:4%;
+	margin-top:4%;
+	
+}
+.a2{
+	width:100%;
+	height:4%;
+	float:left;
+	background:#333;
+}
+.a2-1{
+	float:left;
+	width:100%;
+	height:100%;
+	
+}
+.a2-1-1{
+	float:left;
+	width:90%;
+	height:100%
+}
+.a2-1-1 h1{
+	color:white;
+	padding:0% 5%;
+}
+.a2-1-2{
+	float:right;
+	width:9%;
+	height:100%;
+	padding-top:1%;
+	padding-left:3%;
+	}
+	
+ .a2-2{
+	float:left;
+	width:100%;
+	height:370%;
+}
+.a2-2 li a{
+    text-align:center;
+    color:white;
+}
+.a2-2 li a:hover{
+	color:green;
+	background:blue;
+}
+.a2-3{
+	float:left;
+	height:50%;
+	width:100%;
+	text-align:center;
+	
+}
+.a2-3-1,.a2-3-3{
+	float:left;
+	width:35%;
+	height:100%;
+}
+.a2-3-2{
+	float:left;
+	height:100%;
+	width:30%;
+}
+.a2-3-2 li{
+	float:left;
+width:20%;
+padding-left:1em;
+padding-bottom:10%;
+}
+.a2-4{
+	float:left;
+	text-align:center;
+	height:30%;
+	width:100%;
+	margin-top:1%;
+	color:grey;
+}
+

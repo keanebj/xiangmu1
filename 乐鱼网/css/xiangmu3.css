@@ -1,0 +1,74 @@
+@CHARSET "UTF-8";
+body{
+color:white;
+font-family:微软雅黑;
+}
+a{
+	color:white;
+	decoration:none;
+}
+li{
+	list-style:none;
+}
+.a2 h6,.a3 h6,.a4 h6,.a5 h6,.a6 h6{
+	border:solid 2px #ccc;
+	margin:3rem 0;
+}
+.a2,.a3,.a4,.a5,.a6,.a7{
+	padding-top:50px;
+}
+.a2 img{
+	margin:2rem 0;
+	opacity:0.5;
+}
+.a2 button{
+	margin:5rem 0;
+	}
+.a2 img:hover{
+	opacity:1;
+}
+
+.a3 img{
+	border:1px solid #888;
+	border-radius:100%;
+	margin:3rem 0;
+}
+.a3 img:hover{
+	box-shadow:0 0 50px white;
+}
+.a3 button{
+	margin-top:3rem;
+}
+.a4 img{
+	margin-top:6rem;
+}
+.a5 img{
+	margin:4rem 0;
+}
+.a5 button{
+	margin-top:5rem;
+}
+.a6 h5{
+	border:solid 1px lightblue;
+	padding:1rem 1rem;
+}
+.a6 .text-center{
+	margin:1rem 0;
+}
+.a7 li{
+	padding:1rem 0;
+} 
+.a7 .text-center{
+	margin:3rem 0;
+} 
+#a {
+	padding-top:2rem;
+	border-right:solid 1px white;
+}
+#a div{
+	padding:1rem 0;
+	
+}
+h1{
+	padding:2rem 0;
+}

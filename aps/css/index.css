@@ -1,0 +1,56 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+/* 自己代码*/
+
+/*banner*/
+.banner{ height:455px; position:relative; width:1440px;overflow:hidden;z-index:1; }
+.banner ul{position:relative; z-index:1;height:455px; width:100%; }
+.banner ul li{ position:absolute; left:0; top:0;}
+
+.banner ol{ width:352px; height:12px; position:absolute; left:50%; margin-left:-200px; bottom:20px; z-index:2;}
+.banner ol li{ width:16px; height:16px;background:#fff;  border-radius:50%; float:left;  margin:0 14px; cursor:pointer; _display:inline;}
+.banner ol li.current{ background:#013299;}
+
+/*content*/
+.content{ height:190px; position:relative; }
+.content .product{ height:190px;text-align:center; position:relative;overflow: hidden;width:1090px;  }
+.content .product ul{position:absolute;height:190px; left:0;top:0; width:9999px;}
+.content .product li{width:155px; height:170px; float:left; margin-top:15px; }
+.content .product li p {width:155px; height:50px; display:inline-block;}
+.content .product li p a{ color:#3B3B3B; line-height:50px; font-size:14px;}
+.content .pic{ background:url(../images/left.png) no-repeat; width:37px; height:66px; position:absolute; left:50px; top:50%; margin-top:-33px; cursor:pointer;}
+.content .rightpic{ left:auto; right:50px;  background:url(../images/right.png) no-repeat;}
+
+/*news*/
+.news{height:132px; background:#000;}
+.news .news_list .message{ background:url(../images/information.png) no-repeat; width:160px; height:47px; margin-top:43px; float:left; cursor:pointer;}
+.news .news_list .list{ float:left;width:600px; height:132px;margin-left:40px; _display:inline-block; position:relative; overflow:hidden;}
+.news .news_list .list ul{hight:115px;}
+.news .news_list .list .ullist{ position:absolute;left:0;top:0px;}
+.news .news_list li{ float:left; font-size:16px; margin:0 7px; color:#E5E5E5;}
+.news .news_list li.time{ color:#8C8C8C;}
+.news .news_list li.wenzi01,.news .news_list li.time01{ margin-top:40px; height:40px;}
+.news .news_list li.wenzi01 a:hover,.news .news_list li.wenzi02 a:hover{color:#3CF;}
+/* .news .news_list .anniu{width:71px; height:34px;float:right; margin-top:48px;}
+.news .news_list .anniu .btn{width:30px; height:30px; border:2px solid #fff; float:left; color:#fff; text-align:center; line-height:26px; font-size:34px; cursor:pointer;}
+.news .news_list .anniu .btn_r{ float:right; left:auto;} */
+
+
+/*all*/
+.all{ margin-bottom:100px; overflow:hidden;}
+.part{ height:62px; border-bottom:2px solid #C3C3C3; position:relative; margin-bottom:39px;}
+.part p{width:216px; height:48px; background:#fff; font:bold 24px/48px "微软雅黑"; position:absolute; left:50%; margin-left:-108px; bottom:-24px; text-align:center; color:#0B1675;}
+.all ul{ width:9999px; height:183px;}
+.all li{ float:left; width:365px; height:183px; position:relative;}
+.all li img{ position:absolute;}
+.all .ads{ height:200px; position:relative; margin-top:39px; margin-bottom:10px; }
+.ads ul{ width:60px; position:absolute; left:50%; margin-left:-30px; height:10px; bottom:20px;}
+.ads ul li{ width:10px; height:10px; float:left; background:#fff; margin:0 10px; border-radius:50%;}
+.ads ul02{ height:184px;}
+.ads ul02 li{ float:left; width:365px; height:184px; }
+
+
+
+
